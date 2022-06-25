@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **haydenjwalker1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k6wvQ0DcZ-V5m0i02jSWzceVNQW5D06t/view?usp=sharing](https://drive.google.com/file/d/1k6wvQ0DcZ-V5m0i02jSWzceVNQW5D06t/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1k6wvQ0DcZ-V5m0i02jSWzceVNQW5D06t/view?usp=sharing)
 
 - ⚡ Fun fact **Fresh waist deep snow is my happy place!**
 
