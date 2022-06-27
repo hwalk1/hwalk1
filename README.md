@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dayt](https://github.com/hwalk1/dayt_app)
 
-- 🌱 I’m currently learning **JS Frameworks (React, Node), Solidity**
+- 🌱 I’m currently learning ** React & Solidity**
 
 - 📝 I regularly write articles on [https://medium.com/@hwalk1](https://medium.com/@hwalk1)
 
