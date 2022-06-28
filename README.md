@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React & Solidity**
 
-- 📝 I regularly write articles on [https://medium.com/@hwalk1](https://medium.com/@hwalk1)
-
 - 💬 Ask me about **Ruby on Rails,**
 
 - 📫 How to reach me **haydenjwalker1@gmail.com**
