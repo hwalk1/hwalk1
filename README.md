@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hwalk1&label=Profile%20views&color=0e75b6&style=flat" alt="hwalk1" /> </p>
 
-- 🔭 I’m currently working on [Dayt](https://github.com/hwalk1/dayt_app)
+- 🔭 I’m currently working on as a Software Developer
 
-- 🌱 I’m currently learning **React & Solidity**
+- 🌱 I’m currently learning **Next.js, Solidity & Flutter**
 
-- 💬 Ask me about **Ruby on Rails,**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **haydenjwalker1@gmail.com**
 
