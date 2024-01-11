@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on as a Software Developer
 
-- 🌱 I’m currently learning **Next.js, Solidity & Flutter**
+- 🌱 I’m currently learning **Next.js & Flutter**
 
 - 💬 Ask me about **React.js**
 
